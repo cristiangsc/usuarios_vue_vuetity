@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkusersfirebase"]=self["webpackChunkusersfirebase"]||[]).push([[443],{9030:function(e,s,t){t.r(s),t.d(s,{default:function(){return i}});var n=function(){var e=this,s=e.$createElement;e._self._c;return e._m(0)},u=[function(){var e=this,s=e.$createElement,t=e._self._c||s;return t("div",{staticClass:"about"},[t("h1",[e._v("This is an about page")])])}],r=t(1001),a={},l=(0,r.Z)(a,n,u,!1,null,null,null),i=l.exports}}]);
+//# sourceMappingURL=about-legacy.64af0345.js.map
